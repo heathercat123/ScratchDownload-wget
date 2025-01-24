@@ -12,7 +12,7 @@ def writeFolder(path, isDownloads):
                 f.write('https://download.scratch.mit.edu' + full_path[10:].replace('\\', '/') + '\n')
 
 f = open("wget.txt", "w")
-f.write('# Usage: wget --no-check-certificate -i scratchdownload.txt -x\n')
+f.write('# Usage: wget --no-check-certificate -i wget.txt -x\n')
 f.write('# Takes about half an hour to download everything on HDD and a Linksys USB wireless adapter\n')
 f.write('# May be faster on SSD with a better wireless card\n\n')
 writeFolder('./download', False)
