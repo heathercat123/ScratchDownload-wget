@@ -11,6 +11,7 @@ On Windows, you can also use `get.bat`.
 
 ## Python script usage
 1. Get ScratchDownload
+
 An [outdated version](https://github.com/heathercat123/ScratchDownload/) is available on github. To get a more recent version, use wget then rename `download.scratch.mit.edu` to `download` and `downloads.scratch.mit.edu` to `downloads`.
 2. Run dir.py
 ```
