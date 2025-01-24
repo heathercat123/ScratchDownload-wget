@@ -1,5 +1,5 @@
 # [ScratchDownload-wget](https://github.com/heathercat123/ScratchDownload-wget/blob/master/wget.txt)
-Wget input file to download almost everything from Scratch's download servers ([download.scratch.mit.edu](https://download.scratch.mit.edu/) and downloads.scratch.mit.edu](https://downloads.scratch.mit.edu/)).
+Wget input file to download almost everything from Scratch's download servers ([download.scratch.mit.edu](https://download.scratch.mit.edu/) and [downloads.scratch.mit.edu](https://downloads.scratch.mit.edu/)).
 
 Also includes a Python script to generate it, useful for contributing to this repository.
 
