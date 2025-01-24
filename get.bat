@@ -1,0 +1,1 @@
+@wget --no-check-certificate -i wget.txt -x

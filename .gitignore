@@ -1,0 +1,14 @@
+# Can't include those because github
+/download
+/downloads
+/download.scratch.mit.edu
+/downloads.scratch.mit.edu
+
+# Those might fit in but meh
+/confwiki/download.scratch.mit.edu
+/confwiki/Wikkawiki
+
+# Wget for Windows v1.21.4 by Jernej Simončič
+# Available here https://eternallybored.org/misc/wget/
+wget.exe
+/confwiki/wget.exe
