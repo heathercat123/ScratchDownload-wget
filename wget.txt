@@ -3,6 +3,8 @@
 # May be faster on SSD with a better wireless card
 
 https://download.scratch.mit.edu/CandT_scratch_Fin.pdf
+https://download.scratch.mit.edu/conference/.svn/entries
+https://download.scratch.mit.edu/conference/.svn/format
 https://download.scratch.mit.edu/conference/contact.html
 https://download.scratch.mit.edu/conference/friday.html
 https://download.scratch.mit.edu/conference/gb_styles.css
