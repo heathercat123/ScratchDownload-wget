@@ -2035,6 +2035,8 @@ https://download.scratch.mit.edu/source-code/ScratchSource1.4.zip
 https://download.scratch.mit.edu/source-code/SqueakLicense.txt
 https://download.scratch.mit.edu/source-code/SqueakV2.sources
 https://download.scratch.mit.edu/studio-animation-fame.png
+https://download.scratch.mit.edu/tale2onlinecommunities_CC.pdf
+https://download.scratch.mit.edu/websci09-andresmh.pdf
 https://download.scratch.mit.edu/WinScratch.zip
 https://download.scratch.mit.edu/WinScratch1.3.1.zip
 https://download.scratch.mit.edu/WinScratch1.3.zip
