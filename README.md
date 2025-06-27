@@ -1,3 +1,6 @@
+# Migrated
+This repository has been migrated to [Codeberg](https://codeberg.org/heathercat123/ScratchDownload-wget) and as such will be archived on Github.
+
 # [ScratchDownload-wget](https://github.com/heathercat123/ScratchDownload-wget/blob/master/wget.txt)
 Wget input file to download almost everything from Scratch's download servers ([download.scratch.mit.edu](https://download.scratch.mit.edu/) and [downloads.scratch.mit.edu](https://downloads.scratch.mit.edu/)).
 
